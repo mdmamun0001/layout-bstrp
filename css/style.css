@@ -1,0 +1,15 @@
+body{
+   background-color: #FFAEC9;
+}
+.box{
+	background-color: #99D9EA;
+	height: 60px;
+	border: 4px solid #22B14C;
+	margin-bottom: 10px;
+}
+.red-box{
+	background-color: red;
+}
+.yellow-border{
+	border-color: yellow;
+}
